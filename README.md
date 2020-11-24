@@ -1,7 +1,7 @@
 # RSD 2019
 The project report can be found [**here**](https://drive.google.com/file/d/1zLimHVBdojB0dtbuL_xCK-roEcJxIxHd/view?usp=sharing). It offers an overview of the system elements and how they are placed in the workplace, together with the connection and assembly diagrams.
 
-
+## SDU Robot system design project - Lego packing
 [![SDU Robot system design project - Lego packing](http://img.youtube.com/vi/L4v8Vo0YYEs/0.jpg)](http://www.youtube.com/watch?v=L4v8Vo0YYEs "SDU Robot system design project - Lego packing")
 
 ## Discovered dependencies:
